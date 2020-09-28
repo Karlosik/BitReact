@@ -1,0 +1,9 @@
+D:\BitReact\Domain\bin\Debug\netstandard2.0\Domain.deps.json
+D:\BitReact\Domain\bin\Debug\netstandard2.0\Domain.dll
+D:\BitReact\Domain\bin\Debug\netstandard2.0\Domain.pdb
+D:\BitReact\Domain\obj\Debug\netstandard2.0\Domain.csprojAssemblyReference.cache
+D:\BitReact\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfoInputs.cache
+D:\BitReact\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfo.cs
+D:\BitReact\Domain\obj\Debug\netstandard2.0\Domain.csproj.CoreCompileInputs.cache
+D:\BitReact\Domain\obj\Debug\netstandard2.0\Domain.dll
+D:\BitReact\Domain\obj\Debug\netstandard2.0\Domain.pdb
