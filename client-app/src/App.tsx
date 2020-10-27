@@ -12,7 +12,6 @@ class App extends Component {
   componentDidMount(){
     Axios.get("http://localhost:5000/api/values")
     .then((Response)=>{
-      console.log(Response);
       this.setState({
       values:Response.data
     })
@@ -34,12 +33,6 @@ class App extends Component {
           <List.Item key={value.id}>{value.name}</List.Item>
         ))}
         </List>
-  
-       {/* <ul>
-         {this.state.values.map((value:any)=>(
-           <li key={value.id}>{value.name}</li>
-         ))}
-       </ul> */}
       </div>
     );
   }
